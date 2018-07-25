@@ -1,1 +1,3 @@
 git checkout -b dev
+
+²âÊÔgit add -A
